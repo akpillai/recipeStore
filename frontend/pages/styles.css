@@ -1,0 +1,4 @@
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; }
+label { display:block; margin: 12px 0 8px; }
+button { padding: 8px 12px; cursor: pointer; }
+input, textarea { border: 1px solid #ccc; border-radius: 8px; }
